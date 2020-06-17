@@ -1,10 +1,10 @@
-Decide which buisness to order from
-    a.find coupons to help decide pizza place
-Decide which type of pizza to order
-    a.use a the pizza type from coupon
-Call pizza place
-Order Pizza 
-Hang up
-Wait for delivery
-Tip Delivery Driver
-Eat pizza
+1. Decide which buisness to order from
+    1a. Find coupons to help decide pizza place
+2. Decide which type of pizza to order
+    2a. Use a the pizza type from coupon
+3. Call pizza place
+4. Order Pizza 
+5. Hang up
+6. Wait for delivery
+7. Tip Delivery Driver
+8. Eat pizza
